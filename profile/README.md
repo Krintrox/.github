@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://your-image-hosting-link/banner.png" alt="Krintrox Banner" width="100%" />
+  <img src="profile/image1.jpg" alt="Krintrox Banner" width="100%" />
 
   # KRINTROX
   

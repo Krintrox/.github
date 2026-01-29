@@ -26,7 +26,7 @@ Welcome to **Krintrox**. We are a forward-thinking collective of developers and 
 
 | Web Development | AI & Machine Learning | Data Science |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /> | <img src="https://skillicons.dev/icons?i=python,pandas,scikitlearn" /> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /> | <img src="https://skillicons.dev/icons?i=python,numpy,scikitlearn" /> |
 
 </div>
 

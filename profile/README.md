@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="profile/image1.jpg" alt="Krintrox Banner" width="100%" />
+  <img src="https://github.com/The-God-Empire/.github/blob/main/profile/image1.jpg" alt="Krintrox Banner" width="100%" />
 
   # KRINTROX
   
